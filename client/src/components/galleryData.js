@@ -3,10 +3,10 @@
 const galleryData = [
   {
     id: 1,
-    title: "Historic Speech",
-    caption: "President Clinton delivering a memorable speech.",
+    title: "B-Tech Industrial Engineering ",
+    caption: "Bachelor's degree ",
     image:
-      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1764148058/IMG_4287_kdi2aq.jpg",
     link: "#",
   },
   {
