@@ -11,10 +11,10 @@ const galleryData = [
   },
   {
     id: 2,
-    title: "Community Visit",
-    caption: "Engaging with local communities for empowerment.",
+    title: "Masters Degree",
+    caption: "Masters of Business Administration",
     image:
-      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1764147791/IMG_4285_gsuars.jpg",
     link: "#",
   },
   {
