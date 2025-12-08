@@ -57,6 +57,30 @@ const galleryData = [
       "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
     link: "#",
   },
+  {
+    id: 8,
+    title: "Public Service ",
+    caption: "Encouraging youth at the annual youth conference.",
+    image:
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+    link: "#",
+  },
+  {
+    id: 9,
+    title: "Public Service ",
+    caption: "Encouraging youth at the annual youth conference.",
+    image:
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+    link: "#",
+  },
+  {
+    id: 10,
+    title: "Public Service ",
+    caption: "Encouraging youth at the annual youth conference.",
+    image:
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+    link: "#",
+  },
 ];
 
 export default galleryData;
