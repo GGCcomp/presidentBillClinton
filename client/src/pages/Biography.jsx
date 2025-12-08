@@ -60,7 +60,7 @@ Son of Anandkumar Tripathi (IIT, MBA). `}
 
             <Entry
               year="2011 — Education"
-              text="Completed B.Tech from VIT (Vellore Institute of Technology)."
+              text="Completed B.Tech in Industrial Engineering."
             />
 
             <Entry
