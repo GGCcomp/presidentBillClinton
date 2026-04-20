@@ -61,19 +61,17 @@ const galleryData = [
   },
   {
     id: 9,
-    title: "Public Service ",
-    caption: "Encouraging youth at the annual youth conference.",
+    title: "Mahant LaxmiShankar Tripathi",
+    caption: " Mahant Parivar Organiser of SaptaRishi Aarti  ",
     image:
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776698444/ed873b1b-ec5a-418a-b452-b9b6a2fff8fc_yu5u9y.jpg",
   },
   {
     id: 10,
-    title: "Public Service ",
-    caption: "Encouraging youth at the annual youth conference.",
+    title: "Prime Minister Atal Bihari Vajpaye at Shri Kashi Vishwanath ",
+    caption: "Prime Minister Atal Bihari Vajpaye at Shri Kashi Vishwanath with Mahants ",
     image:
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776698444/IMG_1379_tje2ps.jpg",
   },
 ];
 
