@@ -33,19 +33,17 @@ const galleryData = [
   },
   {
     id: 5,
-    title: "Awards Ceremony",
-    caption: "Honored for lifelong dedication to public service.",
+    title: "Official Farman (Order) of Dara Sheiko regarding Kashi Vishwanath",
+    caption: "Dara Sheiko's farman declaring Bhim Ram Lingia as Mahant of Shri Kashi Vishwanath",
     image:
-      "https://images.unsplash.com/photo-1594122230689-45899d9e6f69?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776696119/IMG_0606_mwofac.jpg",
   },
   {
     id: 6,
-    title: "Youth Engagement",
-    caption: "Encouraging youth at the annual youth conference.",
+    title: "Pt Sir Bhavani Shankar Tripathi ",
+    caption: " CEO-Fire Stones British Raj /Owned 14 mines in calcutta estate ",
     image:
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776696872/d0bd6a59-2f09-4c83-85a9-9b4726924517_isk0ih.jpg",
   },
   {
     id: 7,
