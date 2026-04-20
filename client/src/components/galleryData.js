@@ -26,11 +26,10 @@ const galleryData = [
   },
   {
     id: 4,
-    title: "Foundation Work",
-    caption: "Supporting initiatives for education and health.",
+    title: "Prime Minister With All Mahants ",
+    caption: "1980 last picture of Prime Minister with all mahants of Shri Kashi Vishwanath",
     image:
-      "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776695775/IMG_4039_gypzkb.jpg",
   },
   {
     id: 5,
