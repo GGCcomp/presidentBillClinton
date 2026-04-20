@@ -41,7 +41,7 @@ const galleryData = [
   {
     id: 6,
     title: "Pt Sir Bhavani Shankar Tripathi ",
-    caption: " Zamindar - Benaras 18 estates (British Raj )/CEO-Fire Stones British Raj /Owned 14 mines in calcutta estate ",
+    caption: " Zamindar - Benaras 18 estates (British Raj )/CEO-Fire Stones British Raj",
     image:
       "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776696872/d0bd6a59-2f09-4c83-85a9-9b4726924517_isk0ih.jpg",
   },
@@ -55,7 +55,7 @@ const galleryData = [
   {
     id: 8,
     title: "PT Vishveshwar Dayal Tiwari ",
-    caption: "Zamindar benaras estate/younger brother of Raghubar dayal & Rukmani Kumari( Wife of Mahant Devi Dutt Pandey Lingia",
+    caption: "Zamindar benaras estate/younger brother of Raghubar dayal & Rukmini devi",
     image:
       "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776697668/1b92c07c-538a-494c-a410-2c17cfb81ac3_asil5h.jpg",
   },
