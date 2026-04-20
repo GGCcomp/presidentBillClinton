@@ -41,7 +41,7 @@ const galleryData = [
   {
     id: 6,
     title: "Pt Sir Bhavani Shankar Tripathi ",
-    caption: " CEO-Fire Stones British Raj /Owned 14 mines in calcutta estate ",
+    caption: " Zamindar - Benaras 18 estates (British Raj )/CEO-Fire Stones British Raj /Owned 14 mines in calcutta estate ",
     image:
       "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776696872/d0bd6a59-2f09-4c83-85a9-9b4726924517_isk0ih.jpg",
   },
