@@ -19,8 +19,8 @@ const galleryData = [
   },
   {
     id: 3,
-    title: "Saptarishi aarti 1959",
-    caption: "Participating in the Global Summit 2024.",
+    title: "Shri Kashi Vishwanath Saptarishi aarti 1959",
+    caption: "Archive image Saptarishi aarti Kashi Vishwanath",
     image:
       "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776675224/IMG_3948_wjwlbr.jpg",
   },
