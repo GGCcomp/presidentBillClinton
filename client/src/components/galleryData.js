@@ -47,19 +47,17 @@ const galleryData = [
   },
   {
     id: 7,
-    title: "Public Service ",
-    caption: "Encouraging youth at the annual youth conference.",
+    title: "PT Raghubardayal Tiwari",
+    caption: "Pt Raghubardayal Tiwari Zamindar benaras estate ",
     image:
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776697668/534db58c-7cc6-4ae8-8805-168fb80277a9_evfq1e.jpg",
   },
   {
     id: 8,
-    title: "Public Service ",
-    caption: "Encouraging youth at the annual youth conference.",
+    title: "PT Vishveshwar Dayal Tiwari ",
+    caption: "Zamindar benaras estate/younger brother of Raghubar dayal & Rukmani Kumari( Wife of Mahant Devi Dutt Pandey Lingia",
     image:
-      "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776697668/1b92c07c-538a-494c-a410-2c17cfb81ac3_asil5h.jpg",
   },
   {
     id: 9,
