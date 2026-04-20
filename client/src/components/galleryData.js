@@ -19,11 +19,10 @@ const galleryData = [
   },
   {
     id: 3,
-    title: "Global Summit",
+    title: "Saptarishi aarti 1959",
     caption: "Participating in the Global Summit 2024.",
     image:
-      "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "https://res.cloudinary.com/dzuvjwzoo/image/upload/v1776675224/IMG_3948_wjwlbr.jpg",
   },
   {
     id: 4,
