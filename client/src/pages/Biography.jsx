@@ -101,7 +101,7 @@ Joined True Elements (Marico then Sanjiv Goenka Group) as HOD - Sales & Marketin
 
             <Entry
               year="~2025 onwards — Social Service"
-              text="Formation of Anandvan Trust and appointment as president of the trust."
+              text="Re-Registration  of Anandvan Trust originaly made by Pt Uma Shankar (Sarkar)."
             />
 
             <Entry
