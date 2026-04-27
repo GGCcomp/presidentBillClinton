@@ -98,6 +98,11 @@ Joined True Elements (Marico then Sanjiv Goenka Group) as HOD - Sales & Marketin
               year="2019 — Leadership & Entrepreneurship"
               text={`Upon passing away of his Guru, appointed Custodian of Daiv-Prashna. Co-founded Golden Ghaf Clothing Company on April 15. Married Shriya Raghuvanshi in Dec’19`}
             />
+            
+            <Entry
+              year="2020 — Leadership & Entrepreneurship"
+              text={`Founded Invent tree `}
+            />
 
             <Entry
               year="~2025 onwards — Social Service"
